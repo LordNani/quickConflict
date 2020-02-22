@@ -6,7 +6,7 @@ public class App {
         int arr[] = {10, 7, 8, 9, 1, 5}; 
         int n = arr.length; 
         QuickSort obNew = new QuickSort(); 
-        QuickSort ob = new QuickSort(); 
+        QuickSort object2 = new QuickSort(); 
         ob.sort(arr, 0, n-1); 
         QuickSort ab = new QuickSort();
         QuickSort ac = new QuickSort();
