@@ -9,6 +9,8 @@ public class App {
         QuickSort ob = new QuickSort(); 
         ob.sort(arr, 0, n-1); 
         QuickSort ab = new QuickSort();
+        QuickSort ac = new QuickSort();
+        QuickSort ar = new QuickSort();
         
         System.out.println("sorted array"); 
         for(int i = 0; i < arr.length;i++) {
